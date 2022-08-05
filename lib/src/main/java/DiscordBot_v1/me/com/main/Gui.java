@@ -41,7 +41,7 @@ public class Gui extends JFrame implements BotInformation {
 		//label1.setLocation(250, 250);
         add(label1);
         text1 = new JTextField(18);
-        text1.setText("ODM1OTA5NzU4NTU2NzAwNjcy.YIWToA.5w17VcRRyWnRWCnAu6yDsCQblcM"); //設定初始文字
+        text1.setText(""); //設定初始文字
         add(text1);
         
         
